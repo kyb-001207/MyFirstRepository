@@ -18,3 +18,10 @@
 ## 7주차 과제
    <img width="" height="" src="./png/7주차 1.PNG"></img>
    <img width="" height="" src="./png/7주차 2.PNG"></img>
+   
+## 캡스톤 기말고사 개발 관련 내용
+기존에 만들어진 프로젝트에서 내가 다르게 하고 싶은 부분은
+로그인 화면에서 보이는 심플한 색들을 바꾸는 것이다.
+로그인 박스 배경색은 #FFE4E1로 mistyrose색이고
+사용자명 글자색은 #FF1493인 deeppink,
+비밀번호 글자색은 #800080인 purple이다.
